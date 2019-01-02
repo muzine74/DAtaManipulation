@@ -2,12 +2,9 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using DataTransformation.Interface;
 using DataTransformation.CollectionData;
 using DataTransformation.Models;
-using DataTransformation;
 using System.IO;
 using System.Configuration;
 
