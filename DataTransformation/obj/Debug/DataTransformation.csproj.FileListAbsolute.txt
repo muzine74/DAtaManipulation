@@ -1,0 +1,12 @@
+C:\Users\win7\Documents\Visual Studio 2015\Projects\DataManipulation\DataTransformation\obj\Debug\DataTransformation.csprojResolveAssemblyReference.cache
+C:\Users\win7\Documents\Visual Studio 2015\Projects\DataManipulation\DataTransformation\bin\Debug\DataTransformation.exe.config
+C:\Users\win7\Documents\Visual Studio 2015\Projects\DataManipulation\DataTransformation\bin\Debug\DataTransformation.exe
+C:\Users\win7\Documents\Visual Studio 2015\Projects\DataManipulation\DataTransformation\bin\Debug\DataTransformation.pdb
+C:\Users\win7\Documents\Visual Studio 2015\Projects\DataManipulation\DataTransformation\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\win7\Documents\Visual Studio 2015\Projects\DataManipulation\DataTransformation\bin\Debug\System.AppContext.dll
+C:\Users\win7\Documents\Visual Studio 2015\Projects\DataManipulation\DataTransformation\bin\Debug\System.Console.dll
+C:\Users\win7\Documents\Visual Studio 2015\Projects\DataManipulation\DataTransformation\bin\Debug\System.IO.FileSystem.dll
+C:\Users\win7\Documents\Visual Studio 2015\Projects\DataManipulation\DataTransformation\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\win7\Documents\Visual Studio 2015\Projects\DataManipulation\DataTransformation\bin\Debug\stdole.dll
+C:\Users\win7\Documents\Visual Studio 2015\Projects\DataManipulation\DataTransformation\obj\Debug\DataTransformation.exe
+C:\Users\win7\Documents\Visual Studio 2015\Projects\DataManipulation\DataTransformation\obj\Debug\DataTransformation.pdb

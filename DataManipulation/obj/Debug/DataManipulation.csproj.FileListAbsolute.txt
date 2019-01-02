@@ -1,0 +1,11 @@
+c:\users\win7\documents\visual studio 2015\Projects\DataManipulation\DataManipulation\bin\Debug\DataManipulation.exe.config
+c:\users\win7\documents\visual studio 2015\Projects\DataManipulation\DataManipulation\obj\Debug\DataManipulation.csprojResolveAssemblyReference.cache
+c:\users\win7\documents\visual studio 2015\Projects\DataManipulation\DataManipulation\obj\Debug\DataManipulation.Properties.Resources.resources
+c:\users\win7\documents\visual studio 2015\Projects\DataManipulation\DataManipulation\obj\Debug\DataManipulation.csproj.GenerateResource.Cache
+c:\users\win7\documents\visual studio 2015\Projects\DataManipulation\DataManipulation\bin\Debug\DataManipulation.exe
+c:\users\win7\documents\visual studio 2015\Projects\DataManipulation\DataManipulation\bin\Debug\DataManipulation.pdb
+c:\users\win7\documents\visual studio 2015\Projects\DataManipulation\DataManipulation\bin\Debug\Microsoft.Office.Interop.Excel.dll
+c:\users\win7\documents\visual studio 2015\Projects\DataManipulation\DataManipulation\bin\Debug\stdole.dll
+c:\users\win7\documents\visual studio 2015\Projects\DataManipulation\DataManipulation\obj\Debug\DataManipulation.exe
+c:\users\win7\documents\visual studio 2015\Projects\DataManipulation\DataManipulation\obj\Debug\DataManipulation.pdb
+c:\users\win7\documents\visual studio 2015\Projects\DataManipulation\DataManipulation\obj\Debug\DataManipulation.Form1.resources
