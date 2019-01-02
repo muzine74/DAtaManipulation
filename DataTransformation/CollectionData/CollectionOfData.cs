@@ -22,7 +22,6 @@ namespace DataTransformation.CollectionData
 
             oExcelModelsList = ((ExcelFolder)oSourceFolder).oExcelModelsList;
             return "oExcelModelsListTest";
-
         }
 
         public  string DisplayData(string _resourcesData ="Excel")
