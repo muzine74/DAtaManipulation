@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 using DataTransformation.Models;
 using Microsoft.Office.Interop.Excel;
@@ -109,11 +107,6 @@ namespace DataTransformation.Librairie
                 pBook = null;
                 pApp = null;
             }
-
-
-
-
-
         }
         private async Task ReadXLSSheets(int sheetNumber)
         {
@@ -187,7 +180,6 @@ namespace DataTransformation.Librairie
             bool ValidHeader = true;
             string str;
 
-
             for (int cCnt = 1; cCnt <= range.Columns.Count; cCnt++)
             {
                 str = (string)(range.Cells[1, cCnt] as Range).Value2;
@@ -198,7 +190,6 @@ namespace DataTransformation.Librairie
             }
             return ValidHeader;
         }
-
         #endregion NewFunctionnality
     }
 }

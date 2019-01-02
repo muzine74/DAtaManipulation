@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using DataTransformation.Interface;
 using DataTransformation.Models;
 using DataTransformation.Librairie;
@@ -11,21 +8,17 @@ namespace DataTransformation.CollectionData
 {
     class CollectionOfData
     {
-
         public List<ExcelModels> oExcelModelsList = new List<ExcelModels>();
-
         private IDataInterface oSourceFolder;
 
         public CollectionOfData(IDataInterface _SourceFolder, string Path)
         {
-            this.oSourceFolder = _SourceFolder;
-            
+            this.oSourceFolder = _SourceFolder;            
         }
 
         public  string GetDataAsync( string Path)
         {
-
-             oSourceFolder.ReadXLSFile(Path);
+            oSourceFolder.ReadXLSFile(Path);
 
             oExcelModelsList = ((ExcelFolder)oSourceFolder).oExcelModelsList;
             return "oExcelModelsListTest";
