@@ -38,7 +38,6 @@ namespace DataTransformation
                     }
                 }
             }
-
             Console.ReadKey();
         }
         static List<string> Dir(string directory)
